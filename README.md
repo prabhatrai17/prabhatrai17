@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prabhatrai17
 - 👀 I’m interested in Web Development, Machine learning, Mobile App development and any new Technology.
-- 🌱 I’m currently working with Web development(React,Angular), Java, SpringBoot, MySQL and Flutter.
-- 💞️ I’m looking to collaborate on project.
+- 🌱 I’m currently working with Web development(Angular,ReactJS), Java, SpringBoot, Microservices, SQL, NoSQL and Flutter.
+- 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me prabhatrai392@gmail.com
 
 <!---
